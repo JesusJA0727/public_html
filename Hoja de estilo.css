@@ -1,0 +1,23 @@
+
+body{
+    background-color: #272727;
+    
+}
+
+
+
+
+.circulo{
+    width: 200px;
+    height: 200 px;
+       border-radius: 100%;
+     }
+   
+     .circulo > .imagen{
+         width: 100%;
+         height: 100%;
+         border-radius: 100%;
+   
+     }
+
+
